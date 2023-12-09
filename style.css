@@ -1,0 +1,34 @@
+.jumbotron {
+  background-color: #30302f;
+}
+#projects {
+  background-color: #30302f;
+}
+.footer {
+  background-color: #30302f;
+}
+section {
+  padding-top: 5rem;
+}
+.card {
+  transition: all 0.3s;
+}
+.card:hover {
+  transform: scale(1.1);
+}
+/* .nav-link {
+  position: relative;
+}
+.nav-link::after {
+  opacity: 0;
+  transition: all 0.2s;
+  height: 2px;
+  width: 10%;
+  background-color: #30302f;
+  position: absolute;
+  buttom: 0;
+  left: 0;
+}
+.nav-link:hover::after {
+  opacity: 1;
+} */
